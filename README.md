@@ -24,21 +24,7 @@ Hi there, I'm **Abacop Calderón**, a **Software Engineering** 🚀 from SENATI,
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 👨🏻‍💻 I’m currently work independently.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [abacopcal33333@gmail.com](mailto:abacopcal33333@gmail.com).
-- 📝 See my [Curriculum Vitae](#) for more information by mail.
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- 🎵 &nbsp; music production - medium level (proo-tols && fl-studio);
--  ⏛ &nbsp; arduino programming;
--  ₿ &nbsp; development with web3, AI, Crypto;
+>- 💼 &nbsp; Android developer and front-end web developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3> Languages and Tools: </h3>
