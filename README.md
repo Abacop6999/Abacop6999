@@ -2,7 +2,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/120139066/207475965-22eef39e-b0ab-46fb-88bd-a6faff437c64.gif" width="50px" /> Hello 👋, I'm Abacop!!
 
-<br>
 <img src="https://komarev.com/ghpvc/?username=Abacop6999&color=blueviolet">
 <br />
 <br />
