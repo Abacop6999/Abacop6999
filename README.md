@@ -2,10 +2,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/120139066/207475965-22eef39e-b0ab-46fb-88bd-a6faff437c64.gif" width="50px" /> Hello 👋, I'm Abacop!!
 
-<img src="https://komarev.com/ghpvc/?username=Abacop6999&color=blueviolet">
-<br />
-<br />
-
 Hi there, I'm **Abacop Calderón**, a **Software Engineer** 🚀 from SENATI, Perú.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="40%" />
